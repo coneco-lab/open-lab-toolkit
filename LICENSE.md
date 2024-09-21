@@ -10,7 +10,7 @@ or
 `This work is based on code by <first name><last name>, which was previously published at <link to the repository>`
 
 
-The code in this repository depends on multiple software projects (mostly open source), each of which has its own reuse conditions. 
+Moreover, the code in this repository depends on multiple software projects (mostly open source), each of which has its own reuse conditions. 
 Therefore, reuse conditions for the contents of this repository vary from one file to another, depending on the software project(s) that a given file is built upon. 
 
 In detail, the code in this repository may be built on [NumPy](https://numpy.org/), [PyTorch](https://pytorch.org/), [MNE-Python](https://mne.tools/stable/index.html), 
