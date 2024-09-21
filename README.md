@@ -1,4 +1,4 @@
-## CoN&Co's Open Lab Toolkit ##
+## CoN&Co Lab's Open Toolkit ##
 
 This repository contains CoN&Co Lab's software toolkit. The toolkit includes (or will include) code files, full pipelines and tutorials that describe the experimental and computational routines of the Lab. 
 
